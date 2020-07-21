@@ -1,25 +1,31 @@
 p+-l
 
+
+
+
 kl
  *{
-    background-color: white;
+    background-color: #1ACECF;
     box-sizing: border-box; 
   }
 
+body{
+  background-color: #1ACECF;
+}
+
 #box{
-    background-color: white;
+    background-color: #1ACECF;
     padding: 5px;
    
 }
 
  
 h2{
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     padding-top: 5px;
     text-align: center;
-    background-color: white;
+    background-color: #1ACECF;
 }
-
 #highlight {
     background-color: orange;
     border: 2px solid black;
