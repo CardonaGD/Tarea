@@ -14,7 +14,7 @@ kl
 
  
 h2{
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     padding-top: 5px;
     text-align: center;
     background-color: white;
@@ -40,29 +40,8 @@ h2{
     float: right;
     padding: 10px 30px 10px 30px;
 }
-#highlight3 {
-     
-    background-color: #CF1A85;
-    border: 2px solid black;
-    font-size:24px;
-    font-weight: bold;
-    font-color:black;
-    font-style: normal;
-    float: right;
-    padding: 10px 30px 10px 30px;
-}
 
-#highlight4 {
-    background-color: #1AC0CF;
-    border: 2px solid black;
-    font-size:24px;
-    font-weight: bold;
-    font-color:black;
-    font-style: normal;
-    float: right;
-    padding: 10px 30px 10px 30px;
-}
- 
+
 
 #p1 {
     padding: 60px 20px 10px 20px;
@@ -76,32 +55,15 @@ h2{
 
 #p2 {
      padding: 10px 20px 10px 20px;
-    border: 2px solid;
-    font-size:18px;
+    border: 3px solid;
+    font-size:19px;
     background-color:yellow;
     color:black;
     font-weight: bold;
     font-style: italic;
     }
 
-#p3 {
-    padding: 60px 20px 10px 20px;
-    border: 2px solid;
-    font-size:18px;
-    background-color: #1ACF91;
-    color:black;
-    font-weight: bold;
-    font-style: italic;
-   }
-#p4 {
-    padding: 10px 20px 10px 20px;
-    border: 2px solid;
-    font-size:18px;
-    background-color: #B71ACF;
-    color:black;
-    font-weight: bold;
-    font-style: italic;	
-   }   
+ 
 /* RESPONSIVE WORK DEVICE */
 
 .fili {
@@ -128,7 +90,7 @@ h2{
   width: 41.66%;
 }
 .col6{
-  width: 90%;
+  width: 95%;
 }
 .col7{
   width: 58.33%;
