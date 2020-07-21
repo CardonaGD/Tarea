@@ -1,3 +1,8 @@
+p+-l
+
+
+
+kl
  *{
     background-color: white;
     box-sizing: border-box; 
@@ -5,7 +10,7 @@
 
 #box{
     background-color: white;
-    padding:20px;
+    padding: 5px;
    
 }
 
@@ -19,7 +24,7 @@ h2{
 
 #highlight {
     background-color: orange;
-    border: 4px solid black;
+    border: 2px solid black;
     font-size:24px;
     font-weight: bold;
     font-color:black;
@@ -29,7 +34,7 @@ h2{
 }
 #highlight2 {
     background-color: aqua;
-    border: 4px solid black;
+    border: 2px solid black;
     font-size:24px;
     font-weight: bold;
     font-color:black;
@@ -39,8 +44,8 @@ h2{
 }
 #highlight3 {
      
-    background-color: yellow;
-    border: 4px solid black;
+    background-color: #CF1A85;
+    border: 2px solid black;
     font-size:24px;
     font-weight: bold;
     font-color:black;
@@ -49,11 +54,21 @@ h2{
     padding: 10px 30px 10px 30px;
 }
 
+#highlight4 {
+    background-color: #1AC0CF;
+    border: 2px solid black;
+    font-size:24px;
+    font-weight: bold;
+    font-color:black;
+    font-style: normal;
+    float: right;
+    padding: 10px 30px 10px 30px;
+}
  
 
 #p1 {
     padding: 60px 20px 10px 20px;
-    border: 3px solid;
+    border: 2px solid;
     font-size:18px;
     background-color:#6495ED;
     color:black;
@@ -63,7 +78,7 @@ h2{
 
 #p2 {
      padding: 60px 20px 10px 20px;
-    border: 3px solid;
+    border: 2px solid;
     font-size:18px;
     background-color:yellow;
     color:black;
@@ -73,13 +88,22 @@ h2{
 
 #p3 {
     padding: 60px 20px 10px 20px;
-    border: 3px solid;
+    border: 2px solid;
     font-size:18px;
-    background-color: #FF0000;
+    background-color: #1ACF91;
     color:black;
     font-weight: bold;
     font-style: italic;
    }
+#p4 {
+    padding: 60px 20px 10px 20px;
+    border: 2px solid;
+    font-size:18px;
+    background-color: #B71ACF;
+    color:black;
+    font-weight: bold;
+    font-style: italic;	
+   }   
 /* RESPONSIVE WORK DEVICE */
 
 .fili {
@@ -94,7 +118,7 @@ h2{
   width: 8.33%;
 }
 .col2{
-  width: 16.66%;
+  width: 17.66%;
 }
 .col3{
   width: 25%;
@@ -106,13 +130,13 @@ h2{
   width: 41.66%;
 }
 .col6{
-  width: 50%;
+  width: 55%;
 }
 .col7{
   width: 58.33%;
 }
 .col8{
-  width: 66.66%;
+  width: 68.66%;
 }
 .col9{
   width: 74.99%;
