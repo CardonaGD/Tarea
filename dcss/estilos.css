@@ -1,15 +1,23 @@
+ *{
+    background-color: #1ACECF;
+    box-sizing: border-box; 
+  }
+
+
 
 body{
   background-color: #1ACECF;
- padding: 10px 10px 10px 10px; 
+ padding: 15px 15px 15px 15px; 
 }
 
 #box{
-background-color: #1ACECF;    
-float: 0px;
+    background-color:#1ACECF ;
+    padding:0px;
+   
 }
 
- 
+
+  
 h2{
     margin-bottom: 20px;
     padding-top: 20px;
@@ -18,17 +26,17 @@ h2{
 }
 #highlight {
     background-color: orange;
-    border: 4px solid black;
+    border: 5px solid black;
     font-size:24px;
     font-weight: bold;
     font-color:black;
     font-style: normal;
     float: right;
-    padding: 5px 30px 5px 30px;
+    padding: 5px 5px 5px 5px;
 }
 #highlight2 {
     background-color: aqua;
-    border: 2px solid black;
+    border: 5px solid black;
     font-size:24px;
     font-weight: bold;
     font-color:black;
@@ -39,7 +47,7 @@ h2{
 #highlight3 {
      
     background-color: #CF1A85;
-    border: 4px solid black;
+    border: 5px solid black;
     font-size:24px;
     font-weight: bold;
     font-color:black;
@@ -50,13 +58,13 @@ h2{
 
 #highlight4 {
     background-color: #1AC0CF;
-    border: 2px solid black;
+    border: 5px solid black;
     font-size:24px;
     font-weight: bold;
     font-color:black;
     font-style: normal;
     float: right;
-    padding: 10px 100px 10px 30px;
+    padding: 10px 5px 10px 30px;
 }
  
 
@@ -72,7 +80,7 @@ h2{
 
 #p2 {
      padding: 60px 20px 10px 20px;
-    border: 2px solid;
+    border: 5px solid;
     font-size:18px;
     background-color:yellow;
     color:black;
@@ -82,7 +90,7 @@ h2{
 
 #p3 {
     padding: 60px 20px 10px 20px;
-    border: 2px solid;
+    border: 5px solid;
     font-size:18px;
     background-color: #1ACF91;
     color:black;
@@ -91,13 +99,13 @@ h2{
    }
 #p4 {
     padding: 60px 20px 10px 20px;
-    border: 2px 
+    border: 5px 
     solid;
     font-size:18px;
     background-color: #B71ACF;
     color:black;
     font-weight: bold;
-    font-style: italic;	
+    font-style: italic; 
    }   
 /* RESPONSIVE WORK DEVICE */
 
@@ -162,7 +170,7 @@ h2{
   width: 33.33%;
 }
 .coli4{
-  width: 33.33%;
+  width: 25%;
 }
 .coli5{
   width: 41.66%;
@@ -205,7 +213,7 @@ h2{
   width: 100%;
 }
 .colp4{
-  width: 33.33%;
+  width: 25%;
 }
 .colp5{
   width: 41.66%;
@@ -234,5 +242,7 @@ h2{
 #cosita{
      position: relative;
 }
-         
+  
+
+
 }
