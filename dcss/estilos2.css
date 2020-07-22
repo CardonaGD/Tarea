@@ -15,7 +15,7 @@ body{
 
 #box{
     background-color: #1ACFA7;
-    padding: 5px;
+    padding: 25px;
    
 }
 
@@ -52,7 +52,7 @@ h2{
 
 #p1 {
     padding: 60px 20px 10px 20px;
-    border: 2px solid;
+    border: 3px solid;
     font-size:18px;
     background-color:#6495ED;
     color:black;
@@ -62,7 +62,7 @@ h2{
 
 #p2 {
      padding: 10px 20px 10px 20px;
-    border: 3px solid;
+    border: 2px solid;
     font-size:19px;
     background-color:yellow;
     color:black;
