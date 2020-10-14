@@ -1,0 +1,55 @@
+<!Doctype html> 
+<html> 
+<head> 
+<meta charset = "utf-8"> 
+<title> Formulario de Registro ventagaming </title> 
+<link rel="stylesheet" type="text/css" href="form.css">
+</head> 
+<body> 
+	<nav>
+			<header>
+				Esta es la Pagina oficial de MACRO TECNOLIGIA 
+			</header>
+		<a href="HOME.html" class="divi">Home</a>
+		
+		<a href="cooler.HTML" class="divi">productos</a>
+
+		<a href="aboutme.html" class="divi">About me </a>
+		
+		<a href="contact.html" class="divi">Contact me </a>
+
+		<a href="carrito.html" class="divi"> Compras</a>
+		
+		</nav>
+<div class = "group"> 
+	<form action= "registro.php" method = "POST">
+	<font color="WHITE">
+	<br><br> 
+	<h2 align="center" ><em> Datos necesarios para realizar compras</em></h2> 
+			<center>
+				<section class="form-register">
+			<p><label for = "Direccion"> Direccion de hogar <span> <em> (requerido) </em> </span> </label></p> 
+			<input class="controls" type = "text" name = "direccion" class = "form-input" required /> 
+			<br>
+			<p><label for = "Tarjeta"> Numero de tarjeta de credito o debito <span> <em> (requerido) </em> </span> </label></p> 
+			<input class="controls" type = "Number" name = "Tarjeta" class = "form-input" required /> 
+			<br> 
+			<p><label for = "nombre"> NOMBRE <span> <em> (requerido) </em> </span> </label></p> 
+			<input class="controls" type = "text" name = "nombre" class = "form-input" 	required /> 
+			<br> 
+			<p><label for = "apellido"> APELLIDOS <span  > <em> (requerido) </em> </span> </label></p>
+			<input class="controls" type = "text" name = "apellido" class = "form-input" required /> 
+			<br> 
+			<p><label for = "numero"> NÚMERO DE TELEFONO  <span  > <em> (requerido) </em> </span> </label></p>
+			<input class="controls" type = "text" name = "numero" class = "form-input" required /> 
+			<br> 
+			<p><label for = "correo"> CORREO <span  > <em> (requerido) </em> </span> </label></p>
+			<input  class="controls" type = "email" name = "Correo" class = "form-input" required /> 
+			 <br> <br> <br>
+		 <center><input class ="boton" name = "submit" type = "submit" value = "Iniciar compras" /> </center> <br>
+		 <center><input  class = "boton" name = "reset" type = "reset" value = "Borrar" /> </center>
+		</p> 
+	</form> 
+</div>
+</body> 
+</html>
